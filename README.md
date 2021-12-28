@@ -5,6 +5,8 @@ A Clojure library designed to ... well, that part is up to you.
 ## Usage
 
 FIXME
+This is a signaling game for firms to get loan bonus from choosing investing time.
+To be continued.
 
 ## License
 
